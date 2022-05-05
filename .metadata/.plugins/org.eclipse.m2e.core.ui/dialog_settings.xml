@@ -2,7 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\victo\Área de Trabalho\WORKSPACE\Blog Pessoal Generation\blogpessoal\BlogPessoal"/>
+			<item value="C:\Users\victo\Área de Trabalho\WORKSPACE\BLOG PESSOAL GENERATION\blogpessoal"/>
+			<item value="C:\Users\victo\Área de Trabalho\WORKSPACE\PI GENERATION\projeto_integrador\ondetemrole"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -12,5 +13,9 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>

@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\victo\Área de Trabalho\WORKSPACE\BLOG PESSOAL GENERATION\blogpessoal\BlogPessoal\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
